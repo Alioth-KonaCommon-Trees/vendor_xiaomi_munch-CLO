@@ -582,4 +582,4 @@ PRODUCT_PACKAGES += \
     DaxUI \
     daxService \
     com.android.hotwordenrollment.common.util \
-    manifest_vendor.dolby.hardware.dms.xml
+    manifest_vendor.dolby.hardware.dms
